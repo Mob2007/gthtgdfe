@@ -22,8 +22,7 @@ console.log(10, 6);
 function ret() {
     let num = 50;
 
-
-    //
+    let nfer = 42
 
 
     return num;
